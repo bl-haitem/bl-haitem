@@ -1,4 +1,3 @@
-
 <!-- Animated Title -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3500&pause=500&color=00FFAA&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Belaib+Haitem;Computer+Science+Student+%F0%9F%8E%93;Fullstack+%26+Embedded+Systems+Developer+%F0%9F%94%AD;Welcome+to+my+GitHub+Profile!" />
@@ -33,22 +32,9 @@
 
 ## 📌 Featured Projects
 
+<!-- Add your featured projects here when ready -->
 <p align="center">
-  <a href="https://github.com/bl-haitem/base-convertor-in-c">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bl-haitem&repo=base-convertor-in-c&theme=tokyonight&border_color=00ffaa&title_color=00ffaa" />
-  </a>
-  <a href="https://github.com/bl-haitem/Y-playlist-downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bl-haitem&repo=Y-playlist-downloader&theme=tokyonight&border_color=00ffaa&title_color=00ffaa" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/bl-haitem/alert-sys-arduino-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bl-haitem&repo=alert-sys-arduino-web&theme=tokyonight&border_color=00ffaa&title_color=00ffaa" />
-  </a>
-  <a href="https://github.com/bl-haitem/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bl-haitem&repo=portfolio&theme=tokyonight&border_color=00ffaa&title_color=00ffaa" />
-  </a>
+  <i>🚧 Featured projects will be showcased here soon! 🚧</i>
 </p>
 
 ---
@@ -62,18 +48,25 @@
 
 ---
 
-## 🔥 Contribution Streak
+## 🎯 Current Focus & Goals
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bl-haitem&theme=tokyonight&border=00FFAA&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/🎓_Learning-React_Advanced_Patterns-00FFAA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔧_Building-IoT_Projects-00FFAA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌱_Growing-Problem_Solving_Skills-00FFAA?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Status-Actively_Coding-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🎯_Goal-Build_Impactful_Software-blue?style=for-the-badge&logo=target" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 💻 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bl-haitem&custom_title=Haitem's%20Activity%20Graph&theme=tokyo-night&border_color=00ffaa&title_color=00ffaa&area=true&area_color=00ffaa" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bl-haitem&theme=tokyonight&border_color=00ffaa&title_color=00ffaa&custom_title=Weekly%20Coding%20Time" />
 </p>
 
 ---
