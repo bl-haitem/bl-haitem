@@ -19,10 +19,7 @@
 const haitem = {
     location: "Algeria 🇩🇿",
     education: "Computer Science @ ESTIN Bejaia",
-    currentlyLearning: ["React", "Node.js", "Arduino"],
     workingOn: ["Web Apps", "Embedded Systems"],
-    hobbies: ["Problem Solving", "Building Tools", "Learning Tech"],
-    askMeAbout: ["Web Dev", "Arduino", "Python", "C/C++"]
 };
 ```
 
@@ -98,25 +95,7 @@ const haitem = {
 
 </div>
 
----
 
-## 🚀 What I'm Up To
-
-<div align="center">
-
-**Currently Working On:**
-- 🌐 Web development projects with React & Node.js
-- 🔧 Arduino-based IoT solutions  
-- 📚 Expanding my computer science knowledge
-
-**Learning Goals:**
-- Advanced React patterns and state management
-- Backend development with Node.js & Express
-- Embedded systems programming
-
-</div>
-
----
 
 <div align="center">
   
