@@ -1,6 +1,6 @@
 <!-- Animated Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Haitem;Computer+Science+Student;Full+Stack+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Belaib+Haitem;Computer+Science+Student+%F0%9F%8E%93;Fullstack+%26+Embedded+Systems+Developer+%F0%9F%94%AD;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
 <div align="center">
