@@ -1,10 +1,10 @@
-<!-- عنوان متحرك -->
+<!-- Animated Title -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Belaib+Haitem;Computer+Science+Student+%F0%9F%8E%93;Fullstack+%26+Embedded+Systems+Developer+%F0%9F%94%AD;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
 <p align="center">
-  💻 طالب علوم الحاسوب | ⚡ مطوّر ويب وأنظمة مدمجة | 🌍 الجزائر
+  💻 Computer Science Student | ⚡ Fullstack & Embedded Systems Developer | 🌍 Algeria
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Student at **ESTIN Bejaia**
-- 🔭 أعمل على مشاريع **Web Development** و **Arduino / Embedded Systems**
-- 🌱 أتعلم تقنيات جديدة باستمرار
-- ⚡ أحب بناء أدوات عملية وحلول مبتكرة
+- 🔭 Working on **Web Development** and **Arduino / Embedded Systems** projects
+- 🌱 Continuously learning new technologies
+- ⚡ Passionate about building practical tools and innovative solutions
 
 ---
 
@@ -71,7 +71,7 @@
 
 ---
 
-<!-- شريط أنيميت خفيف -->
+<!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:00ffaa,100:7f00ff&section=footer" />
 </p>
