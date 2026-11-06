@@ -51,59 +51,6 @@ const haitem = {
 
 ---
 
-## 🔥 My Projects
-
-<div align="center">
-
-### 🌟 Featured Repositories
-
-<a href="https://github.com/bl-haitem/base-convertor-in-c">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bl-haitem&repo=base-convertor-in-c&theme=dark&bg_color=0d1117&border_color=00d4aa&title_color=00d4aa&text_color=ffffff" />
-</a>
-<a href="https://github.com/bl-haitem/Y-playlist-downloader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bl-haitem&repo=Y-playlist-downloader&theme=dark&bg_color=0d1117&border_color=00d4aa&title_color=00d4aa&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/bl-haitem/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bl-haitem&repo=portfolio&theme=dark&bg_color=0d1117&border_color=00d4aa&title_color=00d4aa&text_color=ffffff" />
-</a>
-<a href="https://github.com/bl-haitem/sms-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bl-haitem&repo=sms-server&theme=dark&bg_color=0d1117&border_color=00d4aa&title_color=00d4aa&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/bl-haitem/alert-sys-arduino-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bl-haitem&repo=alert-sys-arduino-web&theme=dark&bg_color=0d1117&border_color=00d4aa&title_color=00d4aa&text_color=ffffff" />
-</a>
-
-### 📂 Repository Overview
-**🔢 Base Converter in C** - Advanced number system converter  
-**📺 YouTube Playlist Downloader** - Python tool for bulk downloads  
-**💼 Portfolio** - Personal portfolio website  
-**📱 SMS Server** - SMS service implementation  
-**🚨 Arduino Alert System** - IoT monitoring with web integration
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=bl-haitem&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&border_color=00d4aa&title_color=00d4aa&text_color=ffffff&icon_color=00d4aa" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl-haitem&layout=compact&theme=dark&bg_color=0d1117&border_color=00d4aa&title_color=00d4aa&text_color=ffffff" height="165" />
-
-</div>
-
-
-
-<div align="center">
-  
-**💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
----
 
 **Thanks for visiting! ⭐ Star some repos if you find them interesting!**
 
